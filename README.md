@@ -4,7 +4,7 @@ Hi, I'm Berkie, I currently develop for the [QBCore Framework](https://github.co
 
 ### I am currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BerkieBb&repo=berkie-target&theme=github_dark)](https://github.com/BerkieBb/berkie-target)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BerkieBb&repo=qb-target&theme=github_dark)](https://github.com/BerkieBb/qb-target)
 
 # Github Stats
 
