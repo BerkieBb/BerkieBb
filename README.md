@@ -4,4 +4,4 @@ Hi, I'm Berkie, I currently develop for the [QBCore Framework](https://github.co
 
 # Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkieBb&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkieBb&show_icons=true&theme=github_dark&count_private=true)
