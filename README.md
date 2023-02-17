@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Berkie, I'm a developer making scripts on the [FiveM](https://fivem.net/) platform, I do mostly open source work, if you want to donate to me you can always buy me a [*ko-fi*](https://www.ko-fi.com/BerkieB)!
+Hi, I'm Berkie, I'm a developer that's experienced in C#, JavaScript, TypeScript, Lua, a bit of Python, a bit of C++, and Web Development (backend, not frontend), if you want to donate to me you can always buy me a [*ko-fi*](https://www.ko-fi.com/BerkieB)!
 
 # Contact
 
