@@ -4,7 +4,7 @@ Hi, I'm Berkie, I'm a developer that's experienced in C#, JavaScript, TypeScript
 
 # Contact
 
-You can contact me via my [Discord server](https://discord.gg/ZpqEZWSvZU) or by messaging me via my discord username `berkieb`
+You can contact me via my [Discord](https://discord.gg/7h4Xx59DhD) or by messaging me via my discord username `berkieb`
 
 # Github Stats
 
